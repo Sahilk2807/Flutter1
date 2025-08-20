@@ -44,12 +44,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-    appId: '1:123456789:web:xxxxxxxxxxxxxxxxxxxxxxxx',
-    messagingSenderId: '123456789',
+    apiKey: 'AIzaSyDIhBfd5JXGXx3d4wQIScaFCupkG_aGThY',
+    appId: '1:881861480439:web:0e6073d6d1fed3b0a7e8f2',
+    messagingSenderId: '881861480439',
     projectId: 'gp-sir-education',
     authDomain: 'gp-sir-education.firebaseapp.com',
-    storageBucket: 'gp-sir-education.appspot.com',
+    storageBucket: 'gp-sir-education.firebasestorage.app',
     measurementId: 'G-XXXXXXXXXX',
   );
 
