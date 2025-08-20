@@ -54,15 +54,15 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-    appId: '1:123456789:android:xxxxxxxxxxxxxxxxxxxxxxxx',
-    messagingSenderId: '123456789',
+    apiKey: 'AIzaSyDIhBfd5JXGXx3d4wQIScaFCupkG_aGThY',
+    appId: '1:881861480439:android:887de551171e8405a7e8f2',
+    messagingSenderId: '881861480439',
     projectId: 'gp-sir-education',
-    storageBucket: 'gp-sir-education.appspot.com',
+    storageBucket: 'gp-sir-education.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    apiKey: 'AIzaSyDIhBfd5JXGXx3d4wQIScaFCupkG_aGThY',
     appId: '1:123456789:ios:xxxxxxxxxxxxxxxxxxxxxxxx',
     messagingSenderId: '123456789',
     projectId: 'gp-sir-education',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    apiKey: 'AIzaSyDIhBfd5JXGXx3d4wQIScaFCupkG_aGThY',
     appId: '1:123456789:ios:xxxxxxxxxxxxxxxxxxxxxxxx',
     messagingSenderId: '123456789',
     projectId: 'gp-sir-education',
